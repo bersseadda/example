@@ -1,0 +1,43 @@
+question 2
+<class>
+<sudent>
+<fullName></fullName>
+<id></id>
+<subject>
+<grade>
+</grade>
+</subject>
+</class>
+
+Question 3
+<school>
+<sections>
+<classroom>
+<number>
+</classroom>
+</section>
+<teachesr>
+<fullName></fullName>
+<id></id>
+<subjectstaught></subjectstaught>
+<students>
+<fullname></fullName>
+<id></id>
+</student
+</school>
+
+Question 3
+class={
+student={"fullname": , "id": , "class":
+subjects={
+"name":
+"grade":
+}
+}
+}
+
+Question 4
+school={ 
+section={"classroom": ,}
+teachers={"fullName": , "id": , "subjects": }
+students={"fullName": , "id": , "class": }}
